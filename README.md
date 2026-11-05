@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏭 Supplier-Consumer — Threads and Wait/Notify
+# 🏭 Supplier-Consumer - Threads and Wait/Notify
 
 ### Java · Concurrency · Multithreading
 
@@ -30,8 +30,8 @@ java SupplierConsumerSimulation
 
 ## Files
 
-- `SupplierConsumerSimulation.java` — driver (grade: 9/10)
-- `Supplier.java`, `Consumer.java` — producer and consumer threads
-- `MeetingRoom.java` — shared, synchronized meeting room
+- `SupplierConsumerSimulation.java` - driver (grade: 9/10)
+- `Supplier.java`, `Consumer.java` - producer and consumer threads
+- `MeetingRoom.java` - shared, synchronized meeting room
 
 > Originally a Java Programming II (CIS 36B) project, extracted here as a standalone repo from [java-algorithms-and-concurrency](https://github.com/afshinmalek/java-algorithms-and-concurrency).
